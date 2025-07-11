@@ -5,6 +5,7 @@ Some write-ups for CTFs, Boot-to-Roots systems, and challenges on various platfo
 * [Broken-2020: Write-Up](#broken-2020-write-up)
 * [Oracle 9: Write-Up](#oracle-9-write-up)
 * [Evil-GPT: Write-Up](#evil-gpt-write-up)
+* [Evil-GPT v2: Write-Up](#evil-gpt-v2-write-up)
 
 ## Broken-2020: Write-Up
 
@@ -23,6 +24,12 @@ Write-Up Link: https://medium.com/@always.learning/oracle-9-write-up-edfb818d171
 "Evil-GPT" is a write-up for another LLM security based [TryHackMe](https://tryhackme.com/room/hfb1evilgpt) room. We exploit AI agent to execute commands and go beyond retrieving flag for some fun stuff!
 
 Write-Up Link: https://medium.com/@always.learning/evil-gpt-write-up-7c97b8ebf092
+
+## Evil-GPT v2: Write-Up
+
+A [TryHackMe Room](https://tryhackme.com/room/hfb1evilgptv2) which serves as a spritiual sequel to "Evil-GPT" TryHackMe room, focusing on how exposure of Ollama API endpoints can be abused for system prompt disclosure.
+
+Write-Up Link: https://medium.com/@always.learning/evil-gpt-v2-write-up-7931b5d2a161
 
 ##
 
